@@ -2,7 +2,7 @@
 
 引导页面
 
-## Screen Recod
+## Screen Recording
 ![](https://github.com/13570524658/XhsGuideView/raw/master/READMEView/show.gif)
  
 ## Download
