@@ -3,11 +3,11 @@
 小红书引导页面
 
 ## Screen Recod
-![](https://raw.githubusercontent.com/w446108264/XhsWelcomeAnim/master/output/show.gif)
+![](http://github.com/13570524658/XhsGuideView/raw/master/READMEView/show.gif)
  
 ## Download
 
-[APK下载](https://raw.githubusercontent.com/w446108264/XhsWelcomeAnim/master/output/XhsWelcomeAnim.apk)
+[APK下载](http://github.com/13570524658/XhsGuideView/raw/master/READMEView/XhsWelcomeAnim.apk)
 
-![](https://raw.githubusercontent.com/w446108264/XhsWelcomeAnim/master/output/downloadqrcode.png)
+![](http://github.com/13570524658/XhsGuideView/raw/master/READMEView/downloadqrcode.png)
 
